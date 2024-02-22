@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --Stats
 --[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachh7)](https://github.com/anuraghazra/github-readme-stats)
--->
 [![Top Langs](https://github-readme-stats-five-phi-29.vercel.app/api/top-langs/?username=Zachh7)](https://github.com/anuraghazra/github-readme-stats)
+-->
